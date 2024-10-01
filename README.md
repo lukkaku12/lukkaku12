@@ -32,8 +32,9 @@
 [![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=101010)]()
 
 
-### Unit testing
+### Unit testing & Documentation
 [![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)]()
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white)
 
 <!---
 lukkaku12/lukkaku12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
