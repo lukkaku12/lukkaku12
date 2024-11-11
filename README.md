@@ -3,6 +3,7 @@
 - 🌱 Currently learning and polishing SOLID principles, CLEAN code and REST architectures with Nest.js
 - 💞️ Looking forward to collaborate on projects where I can learn new skills
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/lucas-aristizábal/)
+- 📌 My portfolio: [here](http://159.223.175.64:4321/)
 
 ## Socials:
 
