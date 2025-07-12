@@ -4,6 +4,7 @@
 - 💞️ Looking forward to collaborate on projects where I can learn new skills
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/lucas-aristizábal/)
 - 📌 My portfolio: [here](https://lucasaristidev.space)
+- 💼 Currently working at AHT Global.
 
 ## Socials:
 
