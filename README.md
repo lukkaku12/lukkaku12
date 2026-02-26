@@ -1,10 +1,38 @@
-# 👋 Hi there folks, I am Lucas Aristizábal.
-- 👀 I’m eager in learning the deep caves of web programming!
-- 🌱 Currently learning and polishing SOLID principles, CLEAN code and REST architectures with Nest.js
-- 💞️ Looking forward to collaborate on projects where I can learn new skills
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/lucas-aristizábal/)
-- 📌 My portfolio: [here](https://lucasaristidev.space)
-- 💼 Currently working at AHT Global.
+# 👋 Hey, I'm Lucas Aristizábal
+
+🚀 Full-Stack Developer building scalable web applications and SaaS products.
+
+## 💼 About me
+
+- 💻 Full-Stack Developer at **AHT Global (Hootsi)**  
+  Working on large-scale logistics & warehouse systems using Flask, SQLAlchemy, Celery, Redis & AWS.
+  
+- 🧠 Strong focus on clean architecture (SOLID, Clean/Hexagonal Architecture) and scalable backend systems.
+
+- ⚙️ Experienced in:
+  - Python (Flask)
+  - Node.js (NestJS, Express)
+  - React / Angular
+  - C#
+  - SQL (MySQL, PostgreSQL)
+  - Docker & GitHub Actions
+  - AWS (EC2, RDS, Lambda, )
+
+- 🏗 Currently building:
+  - **StepKind** → AI-powered micro-learning for older adults and youngsters
+
+- 📈 Interested in SaaS, system design, DevOps, and building tech products with real-world impact.
+
+## 🤝 Open to
+
+- Collaborating on SaaS or startup projects
+- Backend & Full-Stack freelance opportunities
+- Remote roles with high-impact teams
+
+## 📫 Let's connect
+
+- 🔗 LinkedIn: https://www.linkedin.com/in/lucas-aristizábal/
+- 🌍 Portfolio: https://lucasaristidev.space
 
 ## Socials:
 
